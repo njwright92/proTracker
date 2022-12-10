@@ -1,0 +1,21 @@
+body  {
+   background-color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+}
+.jumbotron  {
+    background-color: darkblue;
+    color: black;
+    margin-bottom: 0;
+}
+
+h1  {
+    font-family: "lobster", cursive;
+    font-size: 80px;
+}
+
+.navbar  {
+    background-color: black;
+    margin: 0%;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
