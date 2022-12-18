@@ -1,5 +1,5 @@
 body {
-    background-color: whitesmoke;
+    background-color: lightgray;
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -18,4 +18,14 @@ h1 {
     margin: 0%;
     color: white;
     font-family: 'Courier New', Courier, monospace;
+}
+
+#modalRegisterForm .modal-header {
+    background-color: #17A2B8;
+    color: white;
+}
+
+#loginModal .modal-header {
+    background-color: #901CAD;
+    color: white;
 }
