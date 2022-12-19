@@ -21,11 +21,15 @@ h1 {
 }
 
 #modalRegisterForm .modal-header {
-    background-color: #17A2B8;
+    background-color: darkolivegreen;
     color: white;
 }
 
 #loginModal .modal-header {
-    background-color: #901CAD;
+    background-color: blue;
     color: white;
+}
+
+#home  {
+    font-size: 5rem;
 }
